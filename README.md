@@ -24,6 +24,7 @@
 *   🏨 **[The Last Check Out](https://bslayers.itch.io/the-last-check-out)** : Jeu d'horreur psychologique à la première personne fait sur Unreal Engine, vous demandant de survivre et de vous échapper des couloirs changeants d'un hôtel cauchemardesque.
 *   🧬 **[Symbiotic Escape](https://bslayers.itch.io/symbiotic-escape)** : Jeu de réflexion réalisé sur Unreal Engine où il faut guider un monstre jusqu'au portail final d'un labyrinthe confiné dans une seule pièce.
 *   🌑 **[Darkillusion](https://bslayers.itch.io/darkillusion)** : Jeu de course contre la montre à l'atmosphère sombre développé sur Unreal Engine, où vous êtes traqué et devez terminer le niveau avant la mort.
+*   🔨 **[Unreal Engine 5.8 PCG Tech Demo](https://bslayers.itch.io/poc-sur-le-pcg-dunreal-engine-58)** : Preuve de concept basé sur le PCG (génération procédurale de contenu) d'unreal engine 5.8
 
 ### 💻 Code source & Mécaniques (GitHub)
 *   🏃‍♂️ **[Run for your parents (TER)](https://github.com/bslayers/run-for-your-parents)** : Ce projet de Master est un prototype de jeu sous Unity où l'on incarne un enfant cherchant à traverser une ville post-apocalyptique. Il intègre un cycle jour/nuit, un système météorologique, ainsi qu'une intelligence artificielle d'ennemi utilisant une machine à états.
